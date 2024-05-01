@@ -1,0 +1,8 @@
+scrapy 
+asyncpg
+apscheduler
+aiogram
+aiohttp
+redis
+aioredis
+python-dotenv
